@@ -1,0 +1,83 @@
+.main {
+  height: 100vh;
+}
+
+.content-1 {
+  height: 20vh;
+}
+.title {
+  font-size: 64px;
+  font-weight: bolder;
+}
+.description {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 40px;
+  width: 497px;
+}
+.person {
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 20px;
+
+  z-index: -1;
+}
+.logo {
+  z-index: 1;
+}
+.discover {
+  height: 55px;
+  width: 178px;
+}
+.third {
+  height: 55vh;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
+.carta {
+  position: absolute;
+  z-index: 1;
+}
+.vector {
+  z-index: 1;
+}
+.fa-star:before {
+  background-color: aqua;
+}
+.text {
+  position: absolute;
+  z-index: 1;
+}
+.object {
+  z-index: -1;
+}
+.client-1 {
+  position: absolute;
+  z-index: 1;
+}
+.client-2 {
+  z-index: 1;
+}
+#inputPassword2 {
+  position: absolute;
+  z-index: 2;
+  width: 674px;
+}
+.subscribe {
+  position: relative;
+  z-index: 3;
+  margin-left: 580px;
+}
+.element-2 {
+  position: absolute;
+  z-index: 1;
+  width: 500.45px;
+  height: 397.19px;
+  margin-top: 20px;
+}
+.element-1 {
+  position: absolute;
+  z-index: 1;
+  margin: 10px 0 0 1180px;
+}
